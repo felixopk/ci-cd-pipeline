@@ -6,7 +6,7 @@ Automated build, test, and deployment pipeline using Jenkins.
 Containerized application with Docker for consistent environments.
 Deployable to cloud platforms like AWS for scalability and reliability.
 
-Here's how you can format the README for this specific project using your provided details:
+The process included -
 
 Automated CI/CD Pipeline
 Description
